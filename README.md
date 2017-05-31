@@ -1,1 +1,2 @@
 # krzywaB
+Projekt mocno
