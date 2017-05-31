@@ -1,0 +1,8 @@
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Release\Projekt.Form1.resources
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Release\Projekt.Properties.Resources.resources
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Release\Projekt.csproj.GenerateResource.Cache
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\bin\Release\Projekt.exe
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\bin\Release\Projekt.pdb
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Release\Projekt.exe
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Release\Projekt.pdb
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Release\Projekt.csprojResolveAssemblyReference.cache

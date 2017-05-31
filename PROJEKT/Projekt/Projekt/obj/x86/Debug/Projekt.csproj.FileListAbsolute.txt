@@ -1,0 +1,18 @@
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.Form1.resources
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.Properties.Resources.resources
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.exe
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.pdb
+C:\Users\akozakie\Desktop\Opracowanie i wizualizacja wyników pomiarowych\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.csprojResolveAssemblyReference.cache
+F:\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.exe
+F:\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.pdb
+F:\PROJEKT\Projekt\Projekt\bin\Debug\Projekt.exe
+F:\PROJEKT\Projekt\Projekt\bin\Debug\Projekt.pdb
+F:\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.csprojResolveAssemblyReference.cache
+F:\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.Form1.resources
+F:\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.Properties.Resources.resources
+F:\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.csproj.GenerateResource.Cache
+G:\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.exe
+G:\PROJEKT\Projekt\Projekt\obj\x86\Debug\Projekt.pdb
